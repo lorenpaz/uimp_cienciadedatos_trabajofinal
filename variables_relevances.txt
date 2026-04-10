@@ -1,0 +1,78 @@
+=== MODELO: LogisticRegression ===
+num__Age: 0.068258
+num__Germany_x_Age: 0.024050
+num__Age_x_Active: 0.022825
+num__NumOfProducts: 0.010042
+num__Age_x_Balance: 0.006567
+num__Age_x_NumOfProducts: 0.004033
+num__Balance: 0.001450
+num__EstimatedSalary: 0.000708
+num__CreditScore: 0.000017
+num__Age_x_Tenure: -0.000275
+num__CreditScore_/_Age: -0.002008
+
+=== MODELO: RandomForest ===
+num__Age: 0.090400
+num__Age_x_Active: 0.069767
+num__Age_x_NumOfProducts: 0.059683
+num__CreditScore_/_Age: 0.051850
+num__Germany_x_Age: 0.051375
+num__Age_x_Balance: 0.050475
+num__Balance: 0.047975
+num__NumOfProducts: 0.045283
+num__Age_x_Tenure: 0.042817
+num__EstimatedSalary: 0.038725
+num__CreditScore: 0.031425
+
+=== MODELO: GradientBoosting ===
+num__Age: 0.070050
+num__Age_x_Active: 0.032017
+num__NumOfProducts: 0.031300
+num__Germany_x_Age: 0.014092
+num__Age_x_NumOfProducts: 0.010575
+num__Balance: 0.009058
+num__Age_x_Balance: 0.007033
+num__Age_x_Tenure: 0.002725
+num__CreditScore_/_Age: 0.002292
+num__CreditScore: 0.001742
+num__EstimatedSalary: 0.001658
+
+=== MODELO: LGBM ===
+num__Age: 0.121133
+num__Age_x_Active: 0.047150
+num__Age_x_NumOfProducts: 0.028517
+num__NumOfProducts: 0.027217
+num__Germany_x_Age: 0.027158
+num__Age_x_Tenure: 0.021350
+num__Balance: 0.020917
+num__EstimatedSalary: 0.018525
+num__CreditScore: 0.016992
+num__CreditScore_/_Age: 0.016967
+num__Age_x_Balance: 0.015375
+
+=== MODELO: CatBoost ===
+num__Age: 0.087342
+num__Age_x_Active: 0.037242
+num__NumOfProducts: 0.030375
+num__Germany_x_Age: 0.025975
+num__Balance: 0.018667
+num__Age_x_Tenure: 0.017300
+num__EstimatedSalary: 0.014150
+num__Age_x_Balance: 0.014058
+num__CreditScore: 0.013833
+num__Age_x_NumOfProducts: 0.013758
+num__CreditScore_/_Age: 0.010250
+
+=== MODELO: XGB ===
+num__Age: 0.093392
+num__Age_x_Active: 0.044225
+num__Age_x_NumOfProducts: 0.039367
+num__EstimatedSalary: 0.033633
+num__Germany_x_Age: 0.032667
+num__Age_x_Tenure: 0.031058
+num__Balance: 0.030875
+num__CreditScore_/_Age: 0.029008
+num__CreditScore: 0.027892
+num__Age_x_Balance: 0.024258
+num__NumOfProducts: 0.018908
+

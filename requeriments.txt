@@ -1,0 +1,4 @@
+# Instalación de los modelos avanzados
+!pip install lightgbm;
+!pip install catboost;
+!pip install xgboost;
